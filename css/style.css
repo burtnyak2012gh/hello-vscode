@@ -1,0 +1,26 @@
+body {
+  font-size: 20px;
+}
+
+h1 {
+  color: lightseagreen;
+}
+
+h2 {
+  color: lime;
+}
+
+h3 {
+  font-size: 30px;
+  color: red;
+}
+
+.p1 {
+  color: blueviolet;
+  background-color: chocolate;
+  max-width: 300px;
+}
+
+img {
+  max-width: 200px;
+}
